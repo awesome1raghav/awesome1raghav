@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "ETHICAL_AI",
+      "description": "Exploring responsible and ethical approaches to building AI systems."
+    },
+    {
+      "repo": "portfolio",
+      "description": "A personal developer portfolio showcasing projects, skills, achievements, and experiments."
+    },
+    {
+      "repo": "PRISM",
+      "description": "An AI-native concept exploring intelligent systems and future-focused product design."
+    }
+  ]
+}
